@@ -40,6 +40,7 @@ My Public Info Project 007
    :hidden:
 
    HelloWorld/Index
+   ext_jwexample/Index
    Hyperlinks/Index
    reStructuredText/Index
 
