@@ -21,18 +21,19 @@
 .. The following, first section (= headline) is the 'Document Title'.
 
 
-======================
-My Public Info Project
-======================
+==========================
+My Public Info Project 007
+==========================
 
 
 .. The following is 'field list' which is rendered as a horizontal table.
    Think of it as key-value pairs.
 
 
-:Writing here:    `My Name <my.name@gmail.com>`__
+:Writing here:    Wolfgang Wagner
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
+:Others:          `overview <..>`_
 
 
 .. toctree::
